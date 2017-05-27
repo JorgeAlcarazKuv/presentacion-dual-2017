@@ -2,10 +2,10 @@
 Presentación en disapositivas de la formación DUAL del IES Campanillas, realizada en la empresa DEKRA,
 durante el primer curso de Desarrollo de Aplicaciónes Web.
 
-![Screenshot](screenshot.png)
+![](1.png)
 
-![Screenshot](screenshot.png)
+![](2.png)
 
-![Screenshot](screenshot.png)
+![](3.png)
 
-![Screenshot]("Captura de pantalla 2017-05-26 a las 10.56.46.png")
+![](4.png)
