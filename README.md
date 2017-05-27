@@ -2,7 +2,7 @@
 Presentación en disapositivas de la formación DUAL del IES Campanillas, realizada en la empresa DEKRA,
 durante el primer curso de Desarrollo de Aplicaciónes Web.
 
-Realizado con la aplicación de [Slides](http://www.slides.com)
+Realizado con la aplicación de [Slides](http://www.slides.com), que trabaja con [Reveal.js](http://lab.hakim.se/reveal-js/#/).
 
 
 Algunas capturas:
